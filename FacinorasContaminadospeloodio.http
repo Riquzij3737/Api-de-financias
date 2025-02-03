@@ -1,0 +1,6 @@
+@FacinorasContaminadospeloodio_HostAddress = http://localhost:5008
+
+GET {{FacinorasContaminadospeloodio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
