@@ -53,3 +53,4 @@ C:\Visual Studio Projects\_NetProjects\C#\FacinorasContaminadospeloodio\Facinora
 C:\Visual Studio Projects\_NetProjects\C#\FacinorasContaminadospeloodio\FacinorasContaminadospeloodio\obj\Debug\net9.0\FacinorasContaminadospeloodio.genruntimeconfig.cache
 C:\Visual Studio Projects\_NetProjects\C#\FacinorasContaminadospeloodio\FacinorasContaminadospeloodio\obj\Debug\net9.0\ref\FacinorasContaminadospeloodio.dll
 C:\Visual Studio Projects\_NetProjects\C#\FacinorasContaminadospeloodio\FacinorasContaminadospeloodio\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Visual Studio Projects\_NetProjects\C#\FacinorasContaminadospeloodio\FacinorasContaminadospeloodio\obj\Debug\net9.0\FacinorasContaminadospeloodio.sourcelink.json

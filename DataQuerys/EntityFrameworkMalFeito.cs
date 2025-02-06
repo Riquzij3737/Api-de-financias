@@ -144,7 +144,8 @@ public class EntityFrameworkMalFeitoUsers
                             model.Email = reader.GetString("Email");
                             model.Name = reader.GetString("Nome");
                             model.Password = await descrypto.Decrypt(senhasalva);  // Decripta os dados binários
-
+                            model.Dinheiro = reader.GetFloat("Dinheiro");
+                            
                             users.Add(model);  // Adiciona o modelo à lista
                         }
                     }

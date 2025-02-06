@@ -27,6 +27,7 @@ public class UsersController
         return await MalFeito.Update(nome, email, password, cpf);
     }
 
+    
     [HttpGet("/GetUser/{key}")]
     public async Task<IResult> Get([FromRoute] string key)
     {
